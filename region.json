@@ -21,10 +21,10 @@
             { "text": "Washington", "url": "https://maps.coastalresilience.org/pugetsound" }
     ],
     "initialExtent": [
-        8.817734,
-        -85.927162,
-        25.262550,
-        -57.318764
+        -89.252930,
+        8.320212,
+        -57.963867,
+        28.497661
     ],
     "basemaps": [
         { "name": "OpenStreetMap"      , "url": "" }, 
@@ -86,7 +86,7 @@
                     "title": "Global Environment Facility"
                 },
                 {
-                    "logoPath": "img/wbg-logo.png",
+                    "logoPath": "img/wbg-logo.jpg",
                     "link": "https://www.worldbank.org/",
                     "title": "World Bank Group"
                 }
