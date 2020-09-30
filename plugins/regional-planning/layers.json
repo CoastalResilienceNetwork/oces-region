@@ -4,8 +4,8 @@
         "server": {
             "type": "ags",
             "layerType": "dynamic",
-            "url": "https://services2.coastalresilience.org/arcgis/rest/services/OceanWealth/OECS",
-            "name": "Regional_Planning"
+            "url": "https://services2.coastalresilience.org/arcgis/rest/services/OceanWealth",
+            "name": "OECS"
         },
         "includeLayers": [
 					{
