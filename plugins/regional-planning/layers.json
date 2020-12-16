@@ -23,6 +23,10 @@
 					{
 						"name" : "Socioeconomic",
 						"includeAllLayers": true
+					},
+					{
+						"name" : "Population Demographics",
+						"includeAllLayers": true
 					}
         ]
     }
